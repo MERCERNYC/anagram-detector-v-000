@@ -13,5 +13,5 @@ class Anagram
 
  def is_anagram?(word) #should return an empty array used chars.sort to keep the same order
    word.chars.sort = @anagram.chars.sort
-    end 
+    end
   end
